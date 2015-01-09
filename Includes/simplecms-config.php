@@ -7,5 +7,4 @@
     define('DEFAULT_ADMIN_USERNAME', 'admin');
     define('DEFAULT_ADMIN_PASSWORD', '@ntresR0cks');
 
-    //Database=wzhaoMySQLTest;Data Source=us-cdbr-azure-east-a.cloudapp.net;User Id=d57deed3857cea;Password=c3405729
 ?>
